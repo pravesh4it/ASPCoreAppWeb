@@ -6,6 +6,5 @@
 /ASPCoreAppWeb/.vs/ASPCoreAppWeb
 /ASPCoreAppWeb/ASPCoreAppWeb/bin/Debug/net8.0
 /ASPCoreAppWeb/ASPCoreAppWeb/obj
-/ASPCoreAppWeb/ASPCoreAppWeb/Properties
 *.csproj
 *.user
